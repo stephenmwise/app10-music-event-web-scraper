@@ -1,0 +1,6 @@
+countries:
+  css: 'h3.country-name'
+
+info:
+  css: 'div.country-info'
+
